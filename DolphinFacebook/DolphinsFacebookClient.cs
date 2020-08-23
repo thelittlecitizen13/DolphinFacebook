@@ -7,28 +7,29 @@ namespace DolphinFacebook
     {
         private string _fullName;
         public event Action<string> NewWallPost;
-        public DolphinsFacebookClient(string fullName)
+        public IDisplay Display;
+        public DolphinsFacebookClient(string fullName, IDisplay display)
         {
             _fullName = fullName;
+            Display = display;
         }
 
         public void Subscribe(IFacebookClient publisher)
         {
-            NewWallPost += publisher.WriteNewWallPost;
+            publisher.NewWallPost += Display.DisplayWallPost;
+            
         }
 
         public void Unsubscribe(IFacebookClient publisher)
         {
-            NewWallPost -= publisher.WriteNewWallPost;
+            publisher.NewWallPost -= Display.DisplayWallPost;
         }
 
         public void WriteNewWallPost(string wallPost)
         {
-            
+            Display.DisplayWallPost(wallPost);
+            NewWallPost?.Invoke(wallPost);
         }
-        public void ShowWallPost(string wallPost)
-        {
 
-        }
     }
 }
