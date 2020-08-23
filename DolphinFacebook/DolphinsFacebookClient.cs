@@ -5,12 +5,10 @@ namespace DolphinFacebook
 {
     public class DolphinsFacebookClient : IFacebookClient
     {
-        private string _fullName;
         public event Action<string> NewWallPost;
         public IDisplay Display;
-        public DolphinsFacebookClient(string fullName, IDisplay display)
+        public DolphinsFacebookClient(IDisplay display)
         {
-            _fullName = fullName;
             Display = display;
         }
 
