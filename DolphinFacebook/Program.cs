@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DolphinFacebook
+﻿namespace DolphinFacebook
 {
     class Program
     {

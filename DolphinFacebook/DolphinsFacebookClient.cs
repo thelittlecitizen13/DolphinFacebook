@@ -15,7 +15,6 @@ namespace DolphinFacebook
         public void Subscribe(IFacebookClient publisher)
         {
             publisher.NewWallPost += Display.DisplayWallPost;
-            
         }
 
         public void Unsubscribe(IFacebookClient publisher)
