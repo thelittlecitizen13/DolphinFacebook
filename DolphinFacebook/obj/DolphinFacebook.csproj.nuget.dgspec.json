@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj": {}
+    "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj": {
+    "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj",
+        "projectUniqueName": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj",
         "projectName": "DolphinFacebook",
-        "projectPath": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj",
+        "projectPath": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook.csproj",
         "packagesPath": "C:\\Users\\thelittlecitizen13\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\DolphinFacebook\\obj\\",
+        "outputPath": "C:\\Code\\Events and Delegates\\DolphinFacebook\\DolphinFacebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thelittlecitizen13\\AppData\\Roaming\\NuGet\\NuGet.Config",
