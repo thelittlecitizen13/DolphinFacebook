@@ -1,0 +1,15 @@
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.exe
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.deps.json
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.runtimeconfig.json
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.runtimeconfig.dev.json
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.dll
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\DolphinFacebook.pdb
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\bin\Debug\netcoreapp3.1\MamaFacebook.Abstract.dll
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csprojAssemblyReference.cache
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.AssemblyInfoInputs.cache
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.AssemblyInfo.cs
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csproj.CoreCompileInputs.cache
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.csproj.CopyComplete
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.dll
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.pdb
+C:\Code\Events and Delegates\DolphinFacebook\DolphinFacebook\obj\Debug\netcoreapp3.1\DolphinFacebook.genruntimeconfig.cache
